@@ -1,0 +1,49 @@
+
+        
+    *{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: 'Inter', sans-serif;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    height: 65px;
+    /* background-color: black; */
+    color: white ;
+    
+}
+nav ul li{
+    padding: 0 26px;
+    color: black;
+   
+}
+.brand{
+    margin: 0;
+    padding: 0;
+}
+    img{
+        width: 90px;
+    }
+    
+    .a1{
+        width: 60vw;
+    }
+    .con{
+       padding-left: 82px;
+    font-size: 25px;
+    height: 5vh;
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.con li{
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ 
